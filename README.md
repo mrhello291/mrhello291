@@ -21,12 +21,10 @@ Here are some ideas to get you started:
 # 💻 Tech Stack:
 ![XGBoost](https://img.shields.io/badge/XGBoost-FCA121?style=for-the-badge)
 ![SVM](https://img.shields.io/badge/SVM-4E4E4E?style=for-the-badge)
-![Gradient Boost](https://img.shields.io/badge/Gradient_Boost-FF5733?style=for-the-badge)
 ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge)
 
 ![CNN](https://img.shields.io/badge/CNN-FF0000?style=for-the-badge)
 ![RNN](https://img.shields.io/badge/RNN-00BFFF?style=for-the-badge)
-![LSTMs](https://img.shields.io/badge/LSTMs-9932CC?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=for-the-badge)
 
 ![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge)
