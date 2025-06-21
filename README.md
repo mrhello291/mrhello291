@@ -83,9 +83,9 @@
 ## 🔥 My Highlight Projects
 - 💰 **FinnyRAG** – Personalized finance tracker using RAG agents for reasoning + embedding-based query support
 - 🧠 **Matlab Troubleshooter AI** – LangGraph-based assistant for debugging Matlab errors with dynamic RAG + retrieval chains
-- 🌐 **Xpecto Website** – Designed and built the first official techfest website of IIT Mandi: [xpecto.org](https://www.xpecto.org/)
 - 🎮 **Tic Tac Toe RL Agent** – Value-based agent with TD learning
 - 🤖 **Simple Quad** – Wannabe Hilly-terrain capable bot (ROS)
+- 🌐 **Xpecto Website** – Designed and built the first official techfest website of IIT Mandi
 
 ---
 
