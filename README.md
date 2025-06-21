@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Asif Hoda
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/mrhello291" width="150" style="border-radius: 50%" />
+  <img src="https://avatars.githubusercontent.com/u/mrhello291" width="150" style="border-radius: 50" />
 </p>
 
 ---
