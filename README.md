@@ -1,18 +1,17 @@
 ## 👋 Hi there, I'm Asif Hoda
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=50&lines=CS+undergrad+@+IIT+Mandi+(2023-27);AI+%7C+Robotics+%7C+Agentic+AI+%7C+Mechatronics;LLM+Systems+%7C+Fullstack+%7C+Autonomous+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=50&lines=CS+undergrad+@+IIT+Mandi+(2023-27);AI+%7C+Agentic+AI+%7C+LLM+Systems+%7C+RAG+%7C+DL;Fullstack+Infra+%7C+LangGraph+%7C+Autonomous+Systems"/>
 </p>
 
 ---
 
 ## 🧠 About Me
 - 🎓 B.Tech CSE @ IIT Mandi
-- 🚀 Passionate about Agentic AI, LLMs, Deep Learning, and Robotics
-- 💡 Building futuristic AI-native systems using LLMs, Mechatronics, and Blockchain
-- 🛠️ Currently building time capsule-based social media with Aptos + LangGraph RAG agents
-- 🔍 Interested in Generalized Deepfake Detection, RL agents, Autoencoders, RAG Systems
-- 💬 Ask me about deep learning architectures, LLM apps, full-stack development, or agent orchestration
+- 🚀 Passionate about AI-native apps, agent orchestration, and LLM applications
+- 🤖 Building futuristic systems that blend LangGraph agents, RAG, and blockchain
+- 💡 Curious about Deepfake Detection, Generalizable ML, Prompt Engineering
+- 🧱 Developer of intelligent infrastructure from the stack to the model layer
 
 ---
 
@@ -24,7 +23,16 @@
 
 ## 💻 Tech Stack
 
-### 🔬 AI & ML
+### 🧠 AI, Agentic & Vision
+![AI](https://img.shields.io/badge/AI-000000?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-000000?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-333333?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-000000?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Fetch AI](https://img.shields.io/badge/Fetch_AI-000000?style=flat-square)
+
+### 🔬 ML & Deep Learning
 ![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=flat-square)
 ![CNN](https://img.shields.io/badge/CNN-FF0000?style=flat-square)
 ![RNN](https://img.shields.io/badge/RNN-00BFFF?style=flat-square)
@@ -45,16 +53,12 @@
 ![tRPC](https://img.shields.io/badge/tRPC-000000?style=flat-square)
 ![Clerk](https://img.shields.io/badge/Clerk-3B82F6?style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-### 🤖 Robotics / Agentic
+### 🤖 Robotics (Background)
 ![ROS](https://img.shields.io/badge/ROS-22313F?style=flat-square)
 ![Robotics](https://img.shields.io/badge/Robotics-000000?style=flat-square)
 ![Mechatronics](https://img.shields.io/badge/Mechatronics-000000?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-000000?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-333333?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-000000?style=flat-square)
-![Fetch AI](https://img.shields.io/badge/Fetch_AI-000000?style=flat-square)
 
 ### 📚 Other Skills
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -76,12 +80,12 @@
 
 ---
 
-## 🧠 Fun Projects
-- 🧠 **Generalized Deepfake Detector** using PoseEfficientNet + LAA Net
-- 🔒 **CapsuleChain** – Blockchain + AI powered Time Capsule Platform
-- 🎮 **RL Tic Tac Toe** – Value-based RL agent
-- 🔍 **Autoencoder Benchmark** – AE vs VAE vs MCAE on CIFAR-10
-- 🤖 **Simple Quad** – Mechatronic Dingo-inspired bot for hilly terrain
+## 🔥 Highlight Projects
+- 🧠 **Generalized Deepfake Detector** – PoseEfficientNet + LAA Net pipeline
+- 🕓 **CapsuleChain** – Blockchain meets AI for future-locked content
+- 🎮 **Tic Tac Toe RL Agent** – Value-based agent with TD learning
+- 🧪 **Autoencoder Eval** – AE vs VAE vs MCAE on CIFAR-10
+- 🤖 **Simple Quad** – Hilly-terrain capable bot (ROS + soft aluminum)
 
 ---
 
