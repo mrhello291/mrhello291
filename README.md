@@ -83,6 +83,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhello291&layout=compact&theme=github_dark&hide_border=true" height="180px"/>
 </div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrhello291&theme=github_dark)
+
 
 ---
 
