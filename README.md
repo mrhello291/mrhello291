@@ -1,7 +1,10 @@
 ## 👋 Hi there, I'm Asif Hoda
+
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id" width="150" style="border-radius: 50%" />
+  <img src="https://avatars.githubusercontent.com/u/mrhello291" width="150" style="border-radius: 50%" />
 </p>
+
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=50&lines=CS+undergrad+@+IIT+Mandi+(2023-27);AI+%7C+Agentic+AI+%7C+LLM+Systems+%7C+RAG+%7C+DL;Fullstack+%7C+LangGraph+%7C+Autonomous+Systems"/>
