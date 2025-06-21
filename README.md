@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Asif Hoda
 
 <p align="center">
-  <img src="https://sdk.bitmoji.com/render/panel/fc5507ba-0b77-439b-a135-1fa8827aa188-afdc45e0-9df4-426d-a52e-dafb2cb2a570-v1.png?transparent=1&palette=1" width="150" style="border-radius: 50%" />
+  <img src="https://sdk.bitmoji.com/render/panel/fc5507ba-0b77-439b-a135-1fa8827aa188-afdc45e0-9df4-426d-a52e-dafb2cb2a570-v1.png?transparent=1&palette=1" width="250" style="border-radius: 50%" />
 </p>
 
 ---
