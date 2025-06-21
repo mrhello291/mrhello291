@@ -9,9 +9,9 @@
 ## 🧠 About Me
 - 🎓 B.Tech CSE @ IIT Mandi
 - 🚀 Passionate about AI-native apps, agent orchestration, and LLM applications
-- 🤖 Building futuristic systems that blend LangGraph agents, RAG, and blockchain
-- 💡 Curious about Deepfake Detection, Generalizable ML, Prompt Engineering
-- 🧱 Developer of intelligent infrastructure from the stack to the model layer
+- 🤖 Building futuristic systems that blend LangGraph agents, RAG (and promp engineering.... ofcourse XD)
+- 💡 Currently exploring Deepfake Detection and Generalizable ML
+- 🧱 Aiming to Develop of intelligent infrastructure from the stack to the model layer
 
 ---
 
@@ -80,12 +80,12 @@
 
 ---
 
-## 🔥 Highlight Projects
-- 🧠 **Generalized Deepfake Detector** – PoseEfficientNet + LAA Net pipeline
-- 🕓 **CapsuleChain** – Blockchain meets AI for future-locked content
+## 🔥 My Highlight Projects
+- 💰 **FinnyRAG** – Personalized finance tracker using RAG agents for reasoning + embedding-based query support
+- 🧠 **Matlab Troubleshooter AI** – LangGraph-based assistant for debugging Matlab errors with dynamic RAG + retrieval chains
+- 🌐 **Xpecto Website** – Designed and built the first official techfest website of IIT Mandi: [xpecto.org](https://www.xpecto.org/)
 - 🎮 **Tic Tac Toe RL Agent** – Value-based agent with TD learning
-- 🧪 **Autoencoder Eval** – AE vs VAE vs MCAE on CIFAR-10
-- 🤖 **Simple Quad** – Hilly-terrain capable bot (ROS + soft aluminum)
+- 🤖 **Simple Quad** – Wannabe Hilly-terrain capable bot (ROS)
 
 ---
 
