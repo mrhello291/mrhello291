@@ -34,6 +34,7 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22313F?style=flat-square)
 
 ![AI](https://img.shields.io/badge/AI-000000?style=flat-square)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-000000?style=flat-square)
@@ -83,8 +84,6 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![ROS](https://img.shields.io/badge/ROS-22313F?style=flat-square)
-![Robotics](https://img.shields.io/badge/Robotics-000000?style=flat-square)
 
 ---
 
@@ -106,6 +105,7 @@
 - 🎮 **Tic Tac Toe RL Agent** – Value-based agent with TD learning
 - 🤖 **Simple Quad** – Wannabe Hilly-terrain capable bot (ROS)
 - 🌐 **Xpecto Website** – Designed and built the first official techfest website of IIT Mandi
+- 📈 **ASCEP** – High-frequency crypto + forex trading dashboard with real-time price feeds, Redis pub/sub, arbitrage detection, latency and risk metrics  
 
 ---
 
