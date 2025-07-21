@@ -12,11 +12,11 @@
 
 ---
 
-## 🧠 About Me
+## 👤 About Me
 - 🎓 B.Tech CSE @ IIT Mandi
 - 🚀 Passionate about AI-native apps, agent orchestration, and LLM applications
-- ⚙️ Exploring system design deeply — from Redis pub/sub and Socket.IO to containerized backends, load balancing, and distributed infra 
-- 🤖 Building futuristic systems that blend LangChain and LangGraph agents, RAG (and promp engineering.... ofcourse XD)
+- ⚙️ Exploring system design deeply ( hmmmmm.... ) 
+- 🤖 Building futuristic systems that blend LangChain and LangGraph agents, RAG (and prompt engineering.... ofcourse XD)
 - 💡 Currently exploring Deepfake Detection and Generalizable ML
 - 🧱 Aiming to Develop of intelligent infrastructure from the stack to the model layer
 
