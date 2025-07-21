@@ -15,7 +15,8 @@
 ## 🧠 About Me
 - 🎓 B.Tech CSE @ IIT Mandi
 - 🚀 Passionate about AI-native apps, agent orchestration, and LLM applications
-- 🤖 Building futuristic systems that blend LangGraph agents, RAG (and promp engineering.... ofcourse XD)
+- ⚙️ Exploring system design deeply — from Redis pub/sub and Socket.IO to containerized backends, load balancing, and distributed infra 
+- 🤖 Building futuristic systems that blend LangChain and LangGraph agents, RAG (and promp engineering.... ofcourse XD)
 - 💡 Currently exploring Deepfake Detection and Generalizable ML
 - 🧱 Aiming to Develop of intelligent infrastructure from the stack to the model layer
 
@@ -42,6 +43,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-0FA36B?style=flat-square&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=flat-square)
 ![vectordb](https://img.shields.io/badge/vectordb-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MCP (Model Context Protocol)](https://img.shields.io/badge/MCP_(Model_Context_Protocol)-708090?style=flat-square)
 ![Fetch AI](https://img.shields.io/badge/Fetch_AI-8A2BE2?style=flat-square)
 ![Pathway](https://img.shields.io/badge/Pathway-FF4500?style=flat-square)  
 
