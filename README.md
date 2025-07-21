@@ -31,11 +31,16 @@
 ## 💻 Tech Stack
 
 ### 🧠 Intelligent Systems  
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22313F?style=flat-square)
+![ROS](https://img.shields.io/badge/ros-22313F?style=flat-square)
 
 ![AI](https://img.shields.io/badge/AI-1E90FF?style=flat-square)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-20B2AA?style=flat-square)
@@ -43,7 +48,8 @@
 ![LangChain](https://img.shields.io/badge/LangChain-0FA36B?style=flat-square&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=flat-square)
 ![vectordb](https://img.shields.io/badge/vectordb-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MCP (Model Context Protocol)](https://img.shields.io/badge/MCP_(Model_Context_Protocol)-708090?style=flat-square)
+![MCP Server](https://img.shields.io/badge/mcp-708090?style=flat-square)
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![Fetch AI](https://img.shields.io/badge/Fetch_AI-8A2BE2?style=flat-square)
 ![Pathway](https://img.shields.io/badge/Pathway-FF4500?style=flat-square)  
 
@@ -81,11 +87,15 @@
 ![Railway](https://img.shields.io/badge/Railway-000000?style=flat-square&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-### 📚 Other Skills  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+### 📚 Miscellaneous  
+![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
