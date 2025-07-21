@@ -17,7 +17,7 @@
 - 🚀 Passionate about AI-native apps, agent orchestration, and LLM applications
 - ⚙️ Exploring system design deeply ( hmmmmm.... ) 
 - 🤖 Building futuristic systems that blend LangChain and LangGraph agents, RAG (and prompt engineering.... ofcourse XD)
-- 💡 Currently exploring Deepfake Detection and Generalizable ML
+- 💡 Also exploring Deepfake Detection and Generalizable ML
 - 🧱 Aiming to Develop of intelligent infrastructure from the stack to the model layer
 
 ---
@@ -99,7 +99,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-### 📚 Miscellaneous  
+### 🛠️ Languages & Tools  
 ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
