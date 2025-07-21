@@ -30,7 +30,7 @@
 ## 💻 Tech Stack
 
 ### 🧠 AI, Agentic & Vision  
-![AI](https://img.shields.io/badge/AI-000000?style=flat-square)  
+![AI](https://img.shields.io/badge/AI-000000?style=flat-square)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-000000?style=flat-square)  
 ![LangGraph](https://img.shields.io/badge/LangGraph-333333?style=flat-square)  
 ![RAG](https://img.shields.io/badge/RAG-000000?style=flat-square)  
