@@ -24,11 +24,12 @@
 
 ## 📫 Reach Me At:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asif-hoda-4312b4288/) 
-[![Email](https://img.shields.io/badge/hoda.asif123@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hoda.asif123@gmail.com)
-![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
-![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+[![Gmail](https://img.shields.io/badge/hoda.asif123@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hoda.asif123@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Lazy_interpreter)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/asifhoda)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/mrhello291/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://www.geeksforgeeks.org/user/hodaasif123/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/mrhello291)
 
 ---
 
