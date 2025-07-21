@@ -34,7 +34,7 @@
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-000000?style=flat-square)  
 ![LangGraph](https://img.shields.io/badge/LangGraph-333333?style=flat-square)  
 ![RAG](https://img.shields.io/badge/RAG-000000?style=flat-square)  
-![VectorDB (PostgreSQL)](https://img.shields.io/badge/VectorDB_(PostgreSQL)-336791?style=flat-square&logo=postgresql&logoColor=white)  
+![vectordb](https://img.shields.io/badge/vectordb-336791?style=flat-square&logo=postgresql&logoColor=white)  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)  
 ![Fetch AI](https://img.shields.io/badge/Fetch_AI-000000?style=flat-square)  
 ![Pathway](https://img.shields.io/badge/Pathway-FF4500?style=flat-square)
