@@ -30,15 +30,22 @@
 ## 💻 Tech Stack
 
 ### 🧠 Intelligent Systems  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
 ![AI](https://img.shields.io/badge/AI-000000?style=flat-square)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-000000?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-333333?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-000000?style=flat-square)
 ![vectordb](https://img.shields.io/badge/vectordb-336791?style=flat-square&logo=postgresql&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Fetch AI](https://img.shields.io/badge/Fetch_AI-000000?style=flat-square)
 ![Pathway](https://img.shields.io/badge/Pathway-FF4500?style=flat-square)  
 
+![XGBoost](https://img.shields.io/badge/XGBoost-FCA121?style=flat-square)
+![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=flat-square)
+![SVM](https://img.shields.io/badge/SVM-4E4E4E?style=flat-square)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=flat-square)
 ![CNN](https://img.shields.io/badge/CNN-FF0000?style=flat-square)
 ![RNN](https://img.shields.io/badge/RNN-00BFFF?style=flat-square)
@@ -48,12 +55,6 @@
 ![SARSA](https://img.shields.io/badge/SARSA-191970?style=flat-square)
 ![MCTS](https://img.shields.io/badge/MCTS-8FBC8F?style=flat-square)
 ![Isaac Gym](https://img.shields.io/badge/Isaac_Gym-000000?style=flat-square)
-![XGBoost](https://img.shields.io/badge/XGBoost-FCA121?style=flat-square)
-![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=flat-square)
-![SVM](https://img.shields.io/badge/SVM-4E4E4E?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 ### 🌐 Full-Stack & System Design  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
