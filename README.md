@@ -40,7 +40,8 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![ROS](https://img.shields.io/badge/ros-22313F?style=for-the-badge)
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ![AI](https://img.shields.io/badge/AI-1E90FF?style=for-the-badge)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-20B2AA?style=for-the-badge)
