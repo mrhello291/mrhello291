@@ -1,5 +1,4 @@
 ## 👋 Hi there, I'm Asif Hoda
----
 
 ## 👤 About Me
 - 🎓 B.Tech CSE @ IIT Mandi
