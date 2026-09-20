@@ -1,5 +1,3 @@
-## 👋 Hi there, I'm Asif Hoda
-
 ## 👤 About Me
 - 🎓 B.Tech CSE @ IIT Mandi
 - 🚀 Passionate about AI-native apps, agent orchestration, and LLM applications
