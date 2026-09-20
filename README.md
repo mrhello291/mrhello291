@@ -127,14 +127,4 @@
 
 ---
 
-## 🔥 My Highlight Projects
-- 💰 **FinnyRAG** – Personalized finance tracker using RAG agents for reasoning + embedding-based query support
-- 🧠 **Matlab Troubleshooter AI** – LangGraph-based assistant for debugging Matlab errors with dynamic RAG + retrieval chains
-- 🎮 **Tic Tac Toe RL Agent** – Value-based agent with TD learning
-- 🤖 **Simple Quad** – Wannabe Hilly-terrain capable bot (ROS)
-- 🌐 **Xpecto Website** – Designed and built the first official techfest website of IIT Mandi
-- 📈 **ASCEP** – High-frequency crypto + forex trading dashboard with real-time price feeds, Redis pub/sub, arbitrage detection, latency and risk metrics  
-
----
-
 [![](https://visitcount.itsvg.in/api?id=mrhello291&icon=0&color=0)](https://visitcount.itsvg.in)
