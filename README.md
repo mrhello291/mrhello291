@@ -99,7 +99,13 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrhello291&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180px"/>
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=anuraghazra&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api?username=anuraghazra&theme=light_github" alt="Anurag's GitHub stats" />
+  </picture>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrhello291&theme=github-dark&hide_border=true" height="180px"/>
 </div>
 
@@ -111,10 +117,3 @@
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mrhello291&langs_count=4&theme=light_github" alt="Top Langs" />
   </picture>
 
-  <picture>
-      <source
-        srcset="https://github-stats-extended.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=dark_github_repocard"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img src="https://github-stats-extended.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=light_github_repocard" alt="Gist Card" />
-    </picture>
