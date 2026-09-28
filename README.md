@@ -99,6 +99,9 @@
 
 ## 📊 GitHub Stats
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrhello291&theme=github-dark&hide_border=true" height="180px"/>
+</div>
+<div align="center">
   <picture>
     <source
       srcset="https://github-stats-extended.vercel.app/api?username=anuraghazra&theme=dark_github"
@@ -106,14 +109,11 @@
     />
     <img src="https://github-stats-extended.vercel.app/api?username=anuraghazra&theme=light_github" alt="Anurag's GitHub stats" />
   </picture>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrhello291&theme=github-dark&hide_border=true" height="180px"/>
-</div>
-
-<picture>
+  <picture>
     <source
       srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=mrhello291&langs_count=4&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mrhello291&langs_count=4&theme=light_github" alt="Top Langs" />
   </picture>
-
+</div>
