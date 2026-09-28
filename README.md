@@ -110,3 +110,11 @@
     />
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mrhello291&langs_count=4&theme=light_github" alt="Top Langs" />
   </picture>
+
+  <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=dark_github_repocard"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img src="https://github-stats-extended.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=light_github_repocard" alt="Gist Card" />
+    </picture>
