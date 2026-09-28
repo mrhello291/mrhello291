@@ -1,10 +1,6 @@
 ## 👤 About Me
 - 🎓 B.Tech CSE @ IIT Mandi
-- 🚀 Passionate about AI-native apps, agent orchestration, and LLM applications
-- ⚙️ Exploring system design deeply ( hmmmmm.... ) 
-- 🤖 Building futuristic systems that blend LangChain and LangGraph agents, RAG (and prompt engineering.... ofcourse XD)
-- 💡 Also exploring Deepfake Detection and Generalizable ML
-- 🧱 Aiming to Develop of intelligent infrastructure from the stack to the model layer
+- Working on automation
 
 ---
 
@@ -107,10 +103,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrhello291&theme=github-dark&hide_border=true" height="180px"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhello291&layout=compact&theme=github_dark&hide_border=true" height="180px"/>
-</div>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=mrhello291&icon=0&color=0)](https://visitcount.itsvg.in)
+<picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=mrhello291&langs_count=4&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mrhello291&langs_count=4&theme=light_github" alt="Top Langs" />
+  </picture>
