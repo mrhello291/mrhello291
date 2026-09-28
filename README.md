@@ -1,5 +1,5 @@
 ## About Me
-- 🎓 B.Tech CSE @ IIT Mandi
+- B.Tech CSE @ IIT Mandi
 - Love automation cuz I'm lazy
 
 
@@ -12,7 +12,7 @@
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=flat-square&logo=geeksforgeeks&logoColor=35914c)](https://www.geeksforgeeks.org/user/hodaasif123/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/mrhello291)
 
-
+## Cool Stuff:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -28,26 +28,9 @@
 ![LangChain](https://img.shields.io/badge/LangChain-0FA36B?style=for-the-badge&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
 ![vectordb](https://img.shields.io/badge/vectordb-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MCP Server](https://img.shields.io/badge/mcp-708090?style=for-the-badge)
+![MCP](https://img.shields.io/badge/mcp-708090?style=for-the-badge)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-![AI](https://img.shields.io/badge/AI-1E90FF?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-20B2AA?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-333333?style=for-the-badge)
-![Fetch AI](https://img.shields.io/badge/Fetch_AI-8A2BE2?style=for-the-badge)
-![Pathway](https://img.shields.io/badge/Pathway-FF4500?style=for-the-badge)  
-
-![XGBoost](https://img.shields.io/badge/XGBoost-FCA121?style=for-the-badge)
-![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge)
-![SVM](https://img.shields.io/badge/SVM-4E4E4E?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=for-the-badge)
-![CNN](https://img.shields.io/badge/CNN-FF0000?style=for-the-badge)
-![RNN](https://img.shields.io/badge/RNN-00BFFF?style=for-the-badge)
-![GANs](https://img.shields.io/badge/GANs-8B008B?style=for-the-badge)
-![Diffusion Models](https://img.shields.io/badge/Diffusion_Models-483D8B?style=for-the-badge)
-![Q Learning](https://img.shields.io/badge/Q_Learning-1E1E1E?style=for-the-badge)
-![SARSA](https://img.shields.io/badge/SARSA-191970?style=for-the-badge)
-![MCTS](https://img.shields.io/badge/MCTS-8FBC8F?style=for-the-badge)
-![Isaac Gym](https://img.shields.io/badge/Isaac_Gym-5A5A5A?style=for-the-badge)
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -80,12 +63,8 @@
 ![TypeScript](https://img.shields.io/badge/typeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
 
 
