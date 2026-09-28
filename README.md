@@ -1,10 +1,9 @@
-## 👤 About Me
+## About Me
 - 🎓 B.Tech CSE @ IIT Mandi
-- Working on automation
+- Love automation cuz I'm lazy
 
----
 
-## 📫 Find me here:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asif-hoda-4312b4288/) 
 [![Gmail](https://img.shields.io/badge/hoda.asif123@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hoda.asif123@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Lazy_interpreter)
@@ -13,11 +12,7 @@
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=flat-square&logo=geeksforgeeks&logoColor=35914c)](https://www.geeksforgeeks.org/user/hodaasif123/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/mrhello291)
 
----
 
-## 💻 Tech Stack
-
-### 🧠 Intelligent Systems  
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -54,7 +49,6 @@
 ![MCTS](https://img.shields.io/badge/MCTS-8FBC8F?style=for-the-badge)
 ![Isaac Gym](https://img.shields.io/badge/Isaac_Gym-5A5A5A?style=for-the-badge)
 
-### 🌐 Full-Stack & System Design  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -81,7 +75,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-### 🛠️ Languages & Tools  
 ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -95,9 +88,7 @@
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
 
----
 
-## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrhello291&theme=github-dark&hide_border=true" height="180px"/>
 </div>
